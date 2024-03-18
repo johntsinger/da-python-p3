@@ -16,5 +16,5 @@ https://www.figma.com/proto/cqYi9PxSpXMesd6CUJHXn9/Untitled?node-id=1-22&scaling
 https://radial-lighter-5de.notion.site/P3-Designer-une-application-Python-adapt-e-aux-besoins-clients-bd40abbe9a83431f935018b59075f5ab
 
 ## Contact :
-Jonathan Singer - john.t.singer@gmail.com
+Jonathan Singer - john.t.singer@gmail.com\
 Project link : https://github.com/johntsinger/da-python-p3
